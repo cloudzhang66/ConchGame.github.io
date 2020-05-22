@@ -7,9 +7,9 @@ header-style: text
 tags:
   - Facebook
 ---
-# Privacy Policy
-### Effective March 1, 2018 
-### Last revised on March 1, 2018
+
+**Effective March 1, 2018** 
+**Last revised on March 1, 2018**
 
 ConchGame's mission is to connect to the world through games. We offer fun social entertainment experiences to people around the world. For our mission, we collect and use certain information from our players. For ConchGame         
 
