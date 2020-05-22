@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Privacy Policy"
+subtitle: ''
+author: "ConchGame"
+header-style: text
+tags:
+  - Facebook
+---
 # Privacy Policy
 ### Effective March 1, 2018 
 ### Last revised on March 1, 2018
