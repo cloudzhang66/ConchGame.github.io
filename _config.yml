@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     吉他乱弹
-zhihu_username:     吉他乱弹
-github_username:    吉他乱弹
-twitter_username:   吉他乱弹
+# weibo_username:     吉他乱弹
+# zhihu_username:     吉他乱弹
+# github_username:    吉他乱弹
+# twitter_username:   吉他乱弹
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
