@@ -1,4 +1,14 @@
-# # 贝壳互动隐私协议
+---
+layout: post
+title: "Privacy Policy"
+subtitle: ''
+author: "ConchGame"
+header-style: text
+tags:
+  - Facebook
+---
+# 贝壳互动隐私协议
+
 published on: 2020-05-15 17:46:10
 更新日期：【 2020 】年【 09 】月【 15 】日
 生效日期：【 2020 】年【 09 】月【 15 】日
